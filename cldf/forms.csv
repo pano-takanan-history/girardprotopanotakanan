@@ -1,0 +1,428 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,ProtoForm,ConceptInSource
+ProPaTa-domake-1,,ProPaTa,domake,**ʔa-,**ʔa-,ʔ a,,,1,,^ * * ʔ a -$,default,**ʔa-,"do,make"
+pP-domake-1,,pP,domake,*ʔa-,*ʔa-,ʔ a,,,1,,^ * ʔ a -$,default,**ʔa-,"do,make"
+pT-domake-1,,pT,domake,*a-,*a-,a,,,1,,^ * a -$,default,**ʔa-,"do,make"
+ProPaTa-transsuffix-1,,ProPaTa,transsuffix,**-(w)a,**-a,a,,,1,,^ **- a $,default,**-(w)a,trans. suffix
+pP-transsuffix-1,,pP,transsuffix,*-(w)a,*-a,a,,,1,,^ *- a $,default,**-(w)a,trans. suffix
+pT-transsuffix-1,,pT,transsuffix,*-a,*-a,a,,,1,,^ *- a $,default,**-(w)a,trans. suffix
+ProPaTa-big-1,,ProPaTa,big,**ʔaNi,**ʔaNi,ʔ a !N/n i,,,2,,^ * * ʔ a N i $,default,**ʔaNi,big
+pP-big-1,,pP,big,*ʔani,*ʔani,ʔ a n i,,,2,,^ * ʔ a n i $,default,**ʔaNi,big
+pT-big-1,,pT,big,*ari,*ari,a r i,,,2,,^ * a r i $,default,**ʔaNi,big
+ProPaTa-fishpoison-1,,ProPaTa,fishpoison,**ʔas̥a,**ʔas̥a,ʔ a ʃ a,,,3,,^ * * ʔ a s̥ a $,default,**ʔas̥a,fish poison
+pP-fishpoison-1,,pP,fishpoison,*ʔaš̥a,*ʔaš̥a,ʔ a ʃ a,,,3,,^ * ʔ a š̥ a $,default,**ʔas̥a,fish poison
+pP-fishpoison-2,,pP,fishpoison,*ʔaš̥a-n-,*ʔaš̥a-n-,ʔ a ʃ a + n,,,3,,^ * ʔ a š̥ a - n -$,default,**ʔas̥a,to fish with fish poison
+pT-fishpoison-1,,pT,fishpoison,*ac̥a,*ac̥a,a ʈʂ a,,,3,,^ * a c̥ a $,default,**ʔas̥a,fish poison
+ProPaTa-tapir-1,,ProPaTa,tapir,**ʔawada,**ʔawada,ʔ a w a d a,,,4,,^ * * ʔ a w a d a $,default,**ʔawada,tapir
+pP-tapir-1,,pP,tapir,*ʔawara,*ʔawara,ʔ a w a r a,,,4,,^ * ʔ a w a r a $,default,**ʔawada,tapir
+pT-tapir-1,,pT,tapir,*awada,*awada,a w a d a,,,4,,^ * a w a d a $,default,**ʔawada,tapir
+ProPaTa-wifewoman-1,,ProPaTa,wifewoman,**ʔawen{i/ɨ},**ʔawen{i/ɨ},ʔ a w e n !iɨ/i,,,5,,^ * * ʔ a w e n {i/ɨ} $,default,**ʔawen{i/ɨ},"wife,woman"
+pP-wifewoman-1,,pP,wifewoman,*ʔawini,*ʔawini,ʔ a w i n i,,,5,,^ * ʔ a w i n i $,default,**ʔawen{i/ɨ},wife
+pP-wifewoman-2,,pP,wifewoman,*ʔawi̹-bo,*ʔawi̹-bo,ʔ a w i + b o,,,5,,^ * ʔ a w i̹ - b o $,default,**ʔawen{i/ɨ},woman
+pT-wifewoman-1,,pT,wifewoman,*wane,*wane,w a n e,(from *awane??),,5,,^ * w a n e $,default,**ʔawen{i/ɨ},"wife,woman"
+ProPaTa-porcupine-1,,ProPaTa,porcupine,**ʔija,**ʔija,ʔ i j a,,,6,,^ * * ʔ i j a $,default,**ʔija,porcupine
+pT-porcupine-1,,pT,porcupine,*ija,*ija,i j a,,,6,,^ * i j a $,default,**ʔija,porcupine
+ProPaTa-warm-1,,ProPaTa,warm,**ʔij{i/ɨ}-,**ʔij{i/ɨ}-,ʔ i j !iɨ/i,,,7,,^ * * ʔ i j {i/ɨ} -$,default,**ʔij{i/ɨ}-,warm
+pP-warm-1,,pP,warm,*ʔici-sa,*ʔici-sa,ʔ i ʈʂ i + s a,,,7,,^ * ʔ i c i - s a $,default,**ʔij{i/ɨ}-,hot
+pT-warm-1,,pT,warm,*ije-,*ije-,i j e,,,7,,^ * i j e -$,default,**ʔij{i/ɨ}-,"alive,warm"
+pT-warm-2,,pT,warm,*ije-ti,*ije-ti,i j e + t i,,,7,,^ * i j e - t i $,default,**ʔij{i/ɨ}-,sun
+ProPaTa-taildog-1,,ProPaTa,taildog,**ʔina,**ʔina,ʔ i n a,,,8,,^ * * ʔ i n a $,default,**ʔina,"tail,dog"
+pP-taildog-1,,pP,taildog,*ʔina,*ʔina,ʔ i n a,,,8,,^ * ʔ i n a $,default,**ʔina,"dog,jaguar"
+pT-taildog-1,,pT,taildog,*ina1,*ina1,i n a,,,8,,^ * i n a 1 $,default,**ʔina,"tail,feather,hair"
+ProPaTa-givetake-1,,ProPaTa,givetake,**ʔina-n-,**ʔina-n-,ʔ i n a + n,,,9,,^ * * ʔ i n a - n -$,default,**ʔina-n-,"to give,take"
+pP-givetake-1,,pP,givetake,*ʔina̹-,*ʔina̹-,ʔ i n a,,,9,,^ * ʔ i n a̹ -$,default,**ʔina-n-,to give
+pT-givetake-1,,pT,givetake,*ina2,*ina2,i n a,,,9,,^ * i n a 2 $,default,**ʔina-n-,"to grasp,take"
+ProPaTa-suffer-1,,ProPaTa,suffer,**ʔidu-,**ʔidu-,ʔ i d u,,,10,,^ * * ʔ i d u -$,default,**ʔidu-,suffer
+pT-suffer-1,,pT,suffer,*idu-,*idu-,i d u,,,10,,^ * i d u -$,default,**ʔidu-,suffer
+ProPaTa-i-1,,ProPaTa,i,**ʔɨ,**ʔɨ,ʔ ɨ,,,11,,^ * * ʔ ɨ $,default,**ʔɨ,I
+pP-i-1,,pP,i,*ʔɨ,*ʔɨ,ʔ ɨ,,,11,,^ * ʔ ɨ $,default,**ʔɨ,I
+pT-i-1,,pT,i,*ei-,*ei-,e i,,,11,,^ * e i -$,default,**ʔɨ,I
+ProPaTa-mother-1,,ProPaTa,mother,**ʔɨgʷa,**ʔɨgʷa,ʔ ɨ gʷ a,,,12,,^ * * ʔ ɨ gʷ a $,default,**ʔɨgʷa,mother
+pP-mother-1,,pP,mother,*ʔɨwa,*ʔɨwa,ʔ ɨ w a,,,12,,^ * ʔ ɨ w a $,default,**ʔɨgʷa,mother
+pT-mother-1,,pT,mother,*e-ka-,*e-ka-,e + k a,,,12,,^ * e - k a -$,default,**ʔɨgʷa,mother
+ProPaTa-bigabundant-1,,ProPaTa,bigabundant,**ʔɨwa,**ʔɨwa,ʔ ɨ w a,,,13,,^ * * ʔ ɨ w a $,default,**ʔɨwa,"big,abundant"
+pP-bigabundant-1,,pP,bigabundant,*ʔɨwa,*ʔɨwa,ʔ ɨ w a,,,13,,^ * ʔ ɨ w a $,default,**ʔɨwa,"big,abundant"
+pT-bigabundant-1,,pT,bigabundant,*ewa,*ewa,e w a,found only in Ese,,13,,^ * e w a $,default,**ʔɨwa,"big,abundant"
+ProPaTa-demonstrative-1,,ProPaTa,demonstrative,**ʔu-,**ʔu-,ʔ u,,,14,,^ * * ʔ u -$,default,**ʔu-,demonstrative
+pT-demonstrative-1,,pT,demonstrative,*u-,*u-,u,,,14,,^ * u -$,default,**ʔu-,demonstrative
+ProPaTa-tocough-1,,ProPaTa,tocough,"**ʔuku-,**ʔutu",**ʔuku-,ʔ u k u,"N.B. However, cf. Aymará oho-",,15,,^ * * ʔ u k u -$,default,"**ʔuku-,**ʔutu",to cough
+ProPaTa-tocough-2,,ProPaTa,tocough,"**ʔuku-,**ʔutu",**ʔutu,ʔ u t u,"N.B. However, cf. Aymará oho-",,15,,^ * * ʔ u t u $,default,"**ʔuku-,**ʔutu",to cough
+pP-tocough-1,,pP,tocough,*ʔoko-,*ʔoko-,ʔ o k o,,,15,,^ * ʔ o k o -$,default,"**ʔuku-,**ʔutu",to cough
+pT-tocough-1,,pT,tocough,*utu,*utu,u t u,only in Tak,,15,,^ * u t u $,default,"**ʔuku-,**ʔutu",to cough
+ProPaTa-sunmoon-1,,ProPaTa,sunmoon,**badi,**badi,b a d i,,,16,,^ * * b a d i $,default,**badi,"sun,moon"
+pP-sunmoon-1,,pP,sunmoon,*b̄ari,*b̄ari,β a r i,,,16,,^ * b̄ a r i $,default,**badi,"sun,day,spring"
+pT-sunmoon-1,,pT,sunmoon,*badi,*badi,b a d i,,,16,,^ * b a d i $,default,**badi,"moon,month"
+ProPaTa-child-1,,ProPaTa,child,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",**bak...,b a k,,,17,,^ * * b a k ... $,default,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",child
+ProPaTa-child-2,,ProPaTa,child,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",**bakɨ-a,b a k ɨ + a,,,17,,^ * * b a k ɨ - a $,default,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",child
+ProPaTa-child-3,,ProPaTa,child,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",**bakɨ-wa,b a k ɨ + w a,,,17,,^ * * b a k ɨ - w a $,default,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",child
+pP-child-1,,pP,child,*b̄akɨ,*b̄akɨ,β a k ɨ,,,17,,^ * b̄ a k ɨ $,default,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",child
+pT-child-1,,pT,child,*bakwa,*bakwa,b a kʷ a,,,17,,^ * b a kw a $,default,"**bak...,**bakɨ-a (?),**bakɨ-wa(?)",child
+ProPaTa-toplant-1,,ProPaTa,toplant,**bana-,**bana-,b a n a,,,18,,^ * * b a n a -$,default,**bana-,to plant
+pP-toplant-1,,pP,toplant,*b̄ana-,*b̄ana-,β a n a,,,18,,^ * b̄ a n a -$,default,**bana-,to plant
+pT-toplant-1,,pT,toplant,*bana-,*bana-,b a n a,,,18,,^ * b a n a -$,default,**bana-,to plant
+ProPaTa-lake-1,,ProPaTa,lake,**ba...,**ba...,b a,N.B. The root would appear to be **ba- with various extensions in both families,,19,,^ * * b a ... $,default,**ba...,lake
+pP-lake-1,,pP,lake,*b̄aiCV,*b̄aiCV,β a i !C/p !V/i,,,19,,^ * b̄ a i C V $,default,**ba...,"current,rise in river"
+pT-lake-1,,pT,lake,*bai,*bai,b a i,,,19,,^ * b a i $,default,**ba...,lake
+ProPaTa-sweet-1,,ProPaTa,sweet,**beta,**beta,b e t a,,,20,,^ * * b e t a $,default,**beta,sweet
+pP-sweet-1,,pP,sweet,*b̄ata,*b̄ata,β a t a,,,20,,^ * b̄ a t a $,default,**beta,sweet
+pT-sweet-1,,pT,sweet,*bita,*bita,b i t a,,,20,,^ * b i t a $,default,**beta,sweet
+ProPaTa-togetput-1,,ProPaTa,togetput,**bi-,**bi-,b i,,,21,,^ * * b i -$,default,**bi-,"to get,put"
+pP-togetput-1,,pP,togetput,*b̄i-,*b̄i-,β i,,,21,,^ * b̄ i -$,default,**bi-,"to get,receive"
+pT-togetput-1,,pT,togetput,*biu-,*biu-,b i u,,,21,,^ * b i u -$,default,**bi-,to put
+ProPaTa-skin-1,,ProPaTa,skin,**biči,**biči,b i tʃ i,,,22,,^ * * b i č i $,default,**biči,skin
+pP-skin-1,,pP,skin,*b̄iči,*b̄iči,β i tʃ i,,,22,,^ * b̄ i č i $,default,**biči,skin
+pT-skin-1,,pT,skin,*biti,*biti,b i t i,,,22,,^ * b i t i $,default,**biči,skin
+ProPaTa-wasp-1,,ProPaTa,wasp,"**bina,**biNa",**bina,b i n a,"N.B. The root would appear to be **bi-, cf. pP *b̄ii 'mosquito', pT *bia 'louse'",,23,,^ * * b i n a $,default,"**bina,**biNa",wasp
+ProPaTa-wasp-2,,ProPaTa,wasp,"**bina,**biNa",**biNa,b i !N/n a,"N.B. The root would appear to be **bi-, cf. pP *b̄ii 'mosquito', pT *bia 'louse'",,23,,^ * * b i N a $,default,"**bina,**biNa",wasp
+pP-wasp-1,,pP,wasp,*b̄ina,*b̄ina,β i n a,,,23,,^ * b̄ i n a $,default,"**bina,**biNa","wasp,bee"
+pT-wasp-1,,pT,wasp,*bina,*bina,b i n a,,,23,,^ * b i n a $,default,"**bina,**biNa",bat (mammal)
+pT-wasp-2,,pT,wasp,*bira,*bira,b i r a,,,23,,^ * b i r a $,default,"**bina,**biNa",wasp
+ProPaTa-tobring-1,,ProPaTa,tobring,"**bɨ,**bɨta",**bɨ,b ɨ,,,24,,^ * * b ɨ $,default,"**bɨ,**bɨta",to bring
+ProPaTa-tobring-2,,ProPaTa,tobring,"**bɨ,**bɨta",**bɨta,b ɨ t a,,,24,,^ * * b ɨ t a $,default,"**bɨ,**bɨta",to bring
+pP-tobring-1,,pP,tobring,*b̄ɨ-,*b̄ɨ-,β ɨ,,,24,,^ * b̄ ɨ -$,default,"**bɨ,**bɨta",to bring (along)
+pP-tobring-2,,pP,tobring,*-b̄ɨta̹,*-b̄ɨta̹,β ɨ t a,,,24,,^ *- b̄ ɨ t a̹ $,default,"**bɨ,**bɨta",along with
+pP-tobring-3,,pP,tobring,*ra-b̄ita,*ra-b̄ita,r a + β i t a,,,24,,^ * r a - b̄ i t a $,default,"**bɨ,**bɨta",two
+pT-tobring-1,,pT,tobring,*be-,*be-,b e,,,24,,^ * b e -$,default,"**bɨ,**bɨta",to bring
+pT-tobring-2,,pT,tobring,*beta,*beta,b e t a,,,24,,^ * b e t a $,default,"**bɨ,**bɨta",two
+pT-tobring-3,,pT,tobring,*beta-,*beta-,b e t a,,,24,,^ * b e t a -$,default,"**bɨ,**bɨta","to accompany,go along with"
+ProPaTa-faceforehead-1,,ProPaTa,faceforehead,**bɨ ~ **bu,**bɨ,b ɨ,,,25,,^ * * b ɨ $,default,**bɨ ~ **bu,"face,forehead"
+ProPaTa-faceforehead-2,,ProPaTa,faceforehead,**bɨ ~ **bu,**bu,b u,,,25,,^ * * b u $,default,**bɨ ~ **bu,"face,forehead"
+pP-faceforehead-1,,pP,faceforehead,*bɨ,*bɨ,b ɨ,,,25,,^ * b ɨ $,default,**bɨ ~ **bu,"face,forehead"
+pP-faceforehead-2,,pP,faceforehead,*b̄ɨšpi,*b̄ɨšpi,β ɨ ʂ p i,,,25,,^ * b̄ ɨ š p i $,default,**bɨ ~ **bu,"eyebrow,eyelash"
+pP-faceforehead-3,,pP,faceforehead,*b̄iro,*b̄iro,β i r o,,,25,,^ * b̄ i r o $,default,**bɨ ~ **bu,eye
+pP-faceforehead-4,,pP,faceforehead,*b̄ɨma̹na̹,*b̄ɨma̹na̹,β ɨ m a n a,,,25,,^ * b̄ ɨ m a̹ n a̹ $,default,**bɨ ~ **bu,"face,forehead"
+pT-faceforehead-1,,pT,faceforehead,*bu-,*bu-,b u,,,25,,^ * b u -$,default,**bɨ ~ **bu,"face,head,in front of"
+ProPaTa-todescendgodown-1,,ProPaTa,todescendgodown,**bu-tɨ-,**bu-tɨ-,b u + t ɨ,,,26,,^ * * b u - t ɨ -$,default,**bu-tɨ-,to descend.go down
+pP-todescendgodown-1,,pP,todescendgodown,*b̄u,*b̄u,β u,Cf. Cn,,26,,^ * b̄ u $,default,**bu-tɨ-,down (verbal suffix)
+pT-todescendgodown-1,,pT,todescendgodown,"*bu-,*bute-",*bu-,b u,,,26,,^ * b u -$,default,**bu-tɨ-,"to descend,go down"
+pT-todescendgodown-2,,pT,todescendgodown,"*bu-,*bute-",*bute-,b u t e,,,26,,^ * b u t e -$,default,**bu-tɨ-,"to descend,go down"
+pT-todescendgodown-3,,pT,todescendgodown,*-bu,*-bu,b u,,,26,,^ *- b u $,default,**bu-tɨ-,down (verbal suffix)
+ProPaTa-ant-1,,ProPaTa,ant,**buna,**buna,b u n a,,,27,,^ * * b u n a $,default,**buna,ant
+pP-ant-1,,pP,ant,*b̄ona,*b̄ona,β o n a,,,27,,^ * b̄ o n a $,default,**buna,"ant,bee"
+pP-ant-2,,pP,ant,*b̄o̹pa,*b̄o̹pa,β o p a,(:*b̄ona-pa?),,27,,^ * b̄ o̹ p a $,default,**buna,"beetle,wasp"
+pT-ant-1,,pT,ant,*buna,*buna,b u n a,,,27,,^ * b u n a $,default,**buna,ant (tucandera)
+ProPaTa-nail-1,,ProPaTa,nail,**-cizi,**-cizi,ʈʂ i z i,,,28,,^ **- c i z i $,default,**-cizi,nail
+pP-nail-1,,pP,nail,*mɨ̹-cis(t)i,*mɨ̹-cisi,m ɨ + ʈʂ i s i,,,28,,^ * m ɨ̹ - c i s i $,default,**-cizi,fingernail
+pP-nail-2,,pP,nail,*o̹-cisi,*o̹-cisi,o + ʈʂ i s i,,,28,,^ * o̹ - c i s i $,default,**-cizi,toenail
+pT-nail-1,,pT,nail,*-tiji,*-tiji,t i j i,,,28,,^ *- t i j i $,default,**-cizi,nail
+ProPaTa-towet-1,,ProPaTa,towet,**ča-,**ča-,tʃ a,,,29,,^ * * č a -$,default,**ča- (?),to wet
+pP-towet-1,,pP,towet,*ča-,*ča-,tʃ a,,,29,,^ * č a -$,default,**ča- (?),to wet
+pT-towet-1,,pT,towet,*ca2-,*ca2-,ʈʂ a,,,29,,^ * c a 2 -$,default,**ča- (?),wet
+ProPaTa-fire-1,,ProPaTa,fire,"**či(ʔ)i,**čizɨ",**čii,tʃ i i,,,30,,^ * * č i i $,default,"**či(ʔ)i,**čizɨ",fire
+ProPaTa-fire-2,,ProPaTa,fire,"**či(ʔ)i,**čizɨ",**čizɨ,tʃ i z ɨ,,,30,,^ * * č i z ɨ $,default,"**či(ʔ)i,**čizɨ",fire
+pP-fire-1,,pP,fire,*čiʔi,*čiʔi,tʃ i ʔ i,,,30,,^ * č i ʔ i $,default,"**či(ʔ)i,**čizɨ",fire
+pP-fire-2,,pP,fire,*čiʔimapo,*čiʔimapo,tʃ i ʔ i m a p o,,,30,,^ * č i ʔ i m a p o $,default,"**či(ʔ)i,**čizɨ",ashes
+pP-fire-3,,pP,fire,*(c)istɨ,*istɨ,i s t ɨ,,,30,,^ * i s t ɨ $,default,"**či(ʔ)i,**čizɨ","charcoal,firebrand"
+pT-fire-1,,pT,fire,*ti-,*ti-,t i,,,30,,^ * t i -$,default,"**či(ʔ)i,**čizɨ",fire
+pT-fire-2,,pT,fire,*tije,*tije,t i j e,,,30,,^ * t i j e $,default,"**či(ʔ)i,**čizɨ",charcoal
+pT-fire-3,,pT,fire,*timu,*timu,t i m u,,,30,,^ * t i m u $,default,"**či(ʔ)i,**čizɨ",ashes
+ProPaTa-largeend-1,,ProPaTa,largeend,"**či-,**čiPu-n",**či-,tʃ i,,,31,,^ * * č i -$,default,"**či-,**čiPu-n",large end
+ProPaTa-largeend-2,,ProPaTa,largeend,"**či-,**čiPu-n",**čiPu-n,tʃ i !P/p u + n,,,31,,^ * * č i P u - n $,default,"**či-,**čiPu-n",large end
+pP-largeend-1,,pP,largeend,*čipo̹,*čipo̹,tʃ i p o,,,31,,^ * č i p o̹ $,default,"**či-,**čiPu-n","large end,downriver"
+pP-largeend-2,,pP,largeend,*či-bi-,*či-bi-,tʃ i + b i,,,31,,^ * č i - b i -$,default,"**či-,**čiPu-n",steer canoe from the stern
+pT-largeend-1,,pT,largeend,*ti-,*ti-,t i,,,31,,^ * t i -$,default,"**či-,**čiPu-n",large end
+pT-largeend-2,,pT,largeend,*tibu,*tibu,t i b u,,,31,,^ * t i b u $,default,"**či-,**čiPu-n","trunk,stern of a canoe"
+ProPaTa-goacross-1,,ProPaTa,goacross,**čia-n-,**čia-n-,tʃ i a + n,,,32,,^ * * č i a - n -$,default,**čia-n-,go across
+pP-goacross-1,,pP,goacross,*čia-,*čia-,tʃ i a,,,32,,^ * č i a -$,default,**čia-n-,go across
+pT-goacross-1,,pT,goacross,*ti-a-,*ti-a-,t i + a,,,32,,^ * t i - a -$,default,**čia-n-,"to give,go across"
+ProPaTa-hopdance-1,,ProPaTa,hopdance,**čiri-n-,**čiri-n-,tʃ i r i + n,,,33,,^ * * č i r i - n -$,default,**čiri-n-,"hop,dance"
+pT-hopdance-1,,pT,hopdance,*tiři-,*tiři-,t i ɽ i,,,33,,^ * t i ř i -$,default,**čiri-n-,"dance,drum"
+ProPaTa-swallow-1,,ProPaTa,swallow,**čuNu,**čuNu,tʃ u !N/n u,,,34,,^ * * č u N u $,default,**čuNu,swallow
+pT-swallow-1,,pT,swallow,*čuru (?),*čuru,tʃ u r u,found only in Kav,,34,,^ * č u r u $,default,**čuNu,swallow
+ProPaTa-fornicatecopulate-1,,ProPaTa,fornicatecopulate,**čuta,**čuta,tʃ u t a,,,35,,^ * * č u t a $,default,**čuta,"fornicate,copulate"
+pP-fornicatecopulate-1,,pP,fornicatecopulate,*čuta,*čuta,tʃ u t a,,,35,,^ * č u t a $,default,**čuta,fornicate
+pT-fornicatecopulate-1,,pT,fornicatecopulate,*čuta- (?),*čuta-,tʃ u t a,found only in Tak,,35,,^ * č u t a -$,default,**čuta,"fornicate,copulate"
+ProPaTa-sucknurse-1,,ProPaTa,sucknurse,*...,*...,,N.B.perhaps an example of sound symbolism,,36,,^ * ... $,default,**...,"suck,nurse"
+pP-sucknurse-1,,pP,sucknurse,"*cu-,*čo-",*cu-,ʈʂ u,,,36,,^ * c u -$,default,**...,suck
+pP-sucknurse-2,,pP,sucknurse,"*cu-,*čo-",*čo-,tʃ o,,,36,,^ * č o -$,default,**...,suck
+pT-sucknurse-1,,pT,sucknurse,*...?,*...?,,,,36,,^ * ... ? $,default,**...,"nurse,suck"
+ProPaTa-legkneeankle-1,,ProPaTa,legkneeankle,**da-n-,**da-n-,d a + n,,,37,,^ * * d a - n -$,default,**da-n-,"leg,knee,ankle"
+pP-legkneeankle-1,,pP,legkneeankle,*ra̹,*ra̹,r a,,,37,,^ * r a̹ $,default,**da-n-,"knee,ankle,etc"
+pT-legkneeankle-1,,pT,legkneeankle,*da2-,*da2-,d a,,,37,,^ * d a 2 -$,default,**da-n-,"leg,knee,stick"
+ProPaTa-monkey-1,,ProPaTa,monkey,**did...,**did...,d i d,,,38,,^ * * d i d ... $,default,**did...,monkey
+pP-monkey-1,,pP,monkey,*rir{o/i},*rir{o/i},r i r !oi/o,,,38,,^ * r i r {o/i} $,default,**did...,monkey sp.
+pT-monkey-1,,pT,monkey,*di...,*di...,d i,,,38,,^ * d i ... $,default,**did...,monkey
+ProPaTa-flute-1,,ProPaTa,flute,**dɨwɨ,**dɨwɨ,d ɨ w ɨ,,,39,,^ * * d ɨ w ɨ $,default,**dɨwɨ,flute
+pP-flute-1,,pP,flute,*rɨwɨ,*rɨwɨ,r ɨ w ɨ,,,39,,^ * r ɨ w ɨ $,default,**dɨwɨ,flute
+pT-flute-1,,pT,flute,*dewe,*dewe,d e w e,found only in Ese,,39,,^ * d e w e $,default,**dɨwɨ,flute
+ProPaTa-pound-1,,ProPaTa,pound,**du1-,**du1-,d u,,,40,,^ * * d u 1 -$,default,**du1-,pound
+pT-pound-1,,pT,pound,*dudu-,*dudu-,d u d u,,,40,,^ * d u d u -$,default,**du1-,"pound,grip,tap"
+ProPaTa-snake-1,,ProPaTa,snake,**du2-,**du2-,d u,,,41,,^ * * d u 2 -$,default,**du2-,snake
+pP-snake-1,,pP,snake,*rono,*rono,r o n o,,,41,,^ * r o n o $,default,**du2-,snake (generic)
+pT-snake-1,,pT,snake,*du3-,*du3-,d u,,,41,,^ * d u 3 -$,default,**du2-,snake
+ProPaTa-monkey-2,,ProPaTa,monkey,**duʔu,**duʔu,d u ʔ u,,,42,,^ * * d u ʔ u $,default,**duʔu,monkey
+pP-monkey-2,,pP,monkey,*roʔo,*roʔo,r o ʔ o,,,42,,^ * r o ʔ o $,default,**duʔu,howler monkey
+pT-monkey-2,,pT,monkey,*duʔu,*duʔu,d u ʔ u,,,42,,^ * d u ʔ u $,default,**duʔu,howler monkey
+pT-monkey-3,,pT,monkey,*duk(w)a-duk(w)a,*duka-duka,d u k a + d u k a,,,42,,^ * d u k a - d u k a $,default,**duʔu,lucashi (monkey sp.)
+ProPaTa-imperativesuffix-1,,ProPaTa,imperativesuffix,**-gʷɨ,**-gʷɨ,gʷ ɨ,,,43,,^ **- gʷ ɨ $,default,**-gʷɨ,imperative suffix
+pP-imperativesuffix-1,,pP,imperativesuffix,*-wɨ,*-wɨ,w ɨ,,,43,,^ *- w ɨ $,default,**-gʷɨ,imperative suffix
+pT-imperativesuffix-1,,pT,imperativesuffix,*-kʷe,*-kʷe,kʷ e,,,43,,^ *- kʷ e $,default,**-gʷɨ,imperative suffix
+ProPaTa-pronominalpossessivesuffix-1,,ProPaTa,pronominalpossessivesuffix,**-gʷɨ-n,**-gʷɨ-n,gʷ ɨ + n,,,44,,^ **- gʷ ɨ - n $,default,**-gʷɨ-n,pronominal possessive suffix
+pT-pronominalpossessivesuffix-1,,pT,pronominalpossessivesuffix,*-kʷe,*-kʷe,kʷ e,apparently used for only 1st and 2nd persons,,44,,^ *- kʷ e $,default,**-gʷɨ-n,pronominal possessive suffix
+ProPaTa-3rdpersonpronoun-1,,ProPaTa,3rdpersonpronoun,**ha-,**ha-,h a,,,45,,^ * * h a -$,default,**ha-,3rd person pronoun
+pP-3rdpersonpronoun-1,,pP,3rdpersonpronoun,*aa,*aa,a a,,,45,,^ * a a $,default,**ha-,"3rd person pronoun,sg."
+pP-3rdpersonpronoun-2,,pP,3rdpersonpronoun,*ati…,*ati…,a t i,,,45,,^ * a t i … $,default,**ha-,all
+pP-3rdpersonpronoun-3,,pP,3rdpersonpronoun,*ato,*ato,a t o,,,45,,^ * a t o $,default,**ha-,"3rd person pronoun,pl."
+pP-3rdpersonpronoun-4,,pP,3rdpersonpronoun,*awɨ̹,*awɨ̹,a w ɨ,,,45,,^ * a w ɨ̹ $,default,**ha-,"his,hers,its"
+pT-3rdpersonpronoun-1,,pT,3rdpersonpronoun,*a-,*a-,a,cf. pP *awɨ/a ‘what?’,,45,,^ * a -$,default,**ha-,stem of general interrogative pronouns
+ProPaTa-tongue-1,,ProPaTa,tongue,**hana,**hana,h a n a,,,46,,^ * * h a n a $,default,**hana,tongue
+pP-tongue-1,,pP,tongue,*ana,*ana,a n a,,,46,,^ * a n a $,default,**hana,tongue
+pP-tongue-2,,pP,tongue,*ana̹-,*ana̹-,a n a,,,46,,^ * a n a̹ -$,default,**hana,vomit
+pP-tongue-3,,pP,tongue,*a̹ṣ̌ab̴a(ka),*a̹ṣ̌ab̴a,a ʃ a β a,,,46,,^ * a̹ ṣ̌ a b̴ a $,default,**hana,to open mouth wide
+pT-tongue-1,,pT,tongue,*ana,*ana,a n a,,,46,,^ * a n a $,default,**hana,tongue
+ProPaTa-tree-1,,ProPaTa,tree,**hegʷi,**hegʷi,h e gʷ i,,,47,,^ * * h e gʷ i $,default,**hegʷi,tree
+pP-tree-1,,pP,tree,*iwi,*iwi,i w i,,,47,,^ * i w i $,default,**hegʷi,tree
+pT-tree-1,,pT,tree,*akwi,*akwi,a kʷ i,,,47,,^ * a kw i $,default,**hegʷi,tree
+ProPaTa-blood-1,,ProPaTa,blood,**hemi,**hemi,h e m i,,,48,,^ * * h e m i $,default,**hemi,blood
+pP-blood-1,,pP,blood,*imi,*imi,i m i,,,48,,^ * i m i $,default,**hemi,blood
+pT-blood-1,,pT,blood,*ʔami,*ʔami,ʔ a m i,,,48,,^ * ʔ a m i $,default,**hemi,blood
+ProPaTa-white-1,,ProPaTa,white,**huẓu,**huẓu,h u z u,,,49,,^ * * h u ẓ u $,default,**huẓu,white
+pP-white-1,,pP,white,*oṣ̌o,*oṣ̌o,o ʃ o,,,49,,^ * o ṣ̌ o $,default,**huẓu,white
+pT-white-1,,pT,white,*uze/u,*uze/u,u z !eu/e,"Found only in Ese and War. The Čamic forms, if not loans from the Panoan, would apper to come from a pT *uze/u",,49,,^ * u z e/u $,default,**huẓu,white
+ProPaTa-foot-1,,ProPaTa,foot,"**hua-,**wa-",**hua-,h u a,(?),,50,,^ * * h u a -$,default,"**hua-,**wa-",foot
+ProPaTa-foot-2,,ProPaTa,foot,"**hua-,**wa-",**wa-,w a,(?),,50,,^ * * w a -$,default,"**hua-,**wa-",foot
+pP-foot-1,,pP,foot,*o̹-cisi,*o̹-cisi,o + ʈʂ i s i,cf. *mɨ̹-cisi ‘fingernail’,,50,,^ * o̹ - c i s i $,default,"**hua-,**wa-",toenail
+pT-foot-1,,pT,foot,*wa-,*wa-,w a,,,50,,^ * w a -$,default,"**hua-,**wa-",foot
+pT-foot-2,,pT,foot,*wa-tiji,*wa-tiji,w a + t i j i,,,50,,^ * w a - t i j i $,default,"**hua-,**wa-",(toe?)nail
+ProPaTa-pineapple-1,,ProPaTa,pineapple,**kama-kama,**kama-kama,k a m a + k a m a,,,51,,^ * * k a m a - k a m a $,default,**kama-kama,pineapple
+pP-pineapple-1,,pP,pineapple,*ka̹kama,*ka̹kama,k a k a m a,,,51,,^ * k a̹ k a m a $,default,**kama-kama,pineapple
+pT-pineapple-1,,pT,pineapple,*kaka,*kaka,k a k a,,,51,,^ * k a k a $,default,**kama-kama,fruit
+ProPaTa-macaw-1,,ProPaTa,macaw,**kaNa,**kaNa,k a !N/n a,,,52,,^ * * k a N a $,default,**kaNa,macaw
+pP-macaw-1,,pP,macaw,*kana,*kana,k a n a,,,52,,^ * k a n a $,default,**kaNa,macaw
+pT-macaw-1,,pT,macaw,*kara,*kara,k a r a,,,52,,^ * k a r a $,default,**kaNa,macaw
+ProPaTa-desiderativesuffix-1,,ProPaTa,desiderativesuffix,*ka…,*ka…,k a,,,53,,^ * k a … $,default,**ka…,desiderative suffix
+pP-desiderativesuffix-1,,pP,desiderativesuffix,*-kas ~ -kaci,*-kas,k a s,,,53,,^ *- k a s $,default,**ka…,desiderative suffix
+pP-desiderativesuffix-2,,pP,desiderativesuffix,*-kas ~ -kaci,-kaci,k a ʈʂ i,,,53,,^- k a c i $,default,**ka…,desiderative suffix
+pT-desiderativesuffix-1,,pT,desiderativesuffix,*-kas ~ -kaci,*-kas,k a s,,,53,,^ *- k a s $,default,**ka…,desiderative suffix
+pT-desiderativesuffix-2,,pT,desiderativesuffix,*-kas ~ -kaci,-kaci,k a ʈʂ i,,,53,,^- k a c i $,default,**ka…,desiderative suffix
+ProPaTa-hole-1,,ProPaTa,hole,**keni,**keni,k e n i,,,54,,^ * * k e n i $,default,**keni,hole
+pP-hole-1,,pP,hole,*kini,*kini,k i n i,,,54,,^ * k i n i $,default,**keni,hole
+pT-hole-1,,pT,hole,*kani,*kani,k a n i,,,54,,^ * k a n i $,default,**keni,hole
+ProPaTa-uncle-1,,ProPaTa,uncle,**kuku/a,**kuku/a,k u k !ua/u,,,55,,^ * * k u k u/a $,default,**kuku/a,uncle
+pP-uncle-1,,pP,uncle,*koka,*koka,k o k a,,,55,,^ * k o k a $,default,**kuku/a,maternal uncle
+pP-uncle-2,,pP,uncle,*koko,*koko,k o k o,,,55,,^ * k o k o $,default,**kuku/a,nephew
+pT-uncle-1,,pT,uncle,*kuku,*kuku,k u k u,and in Tak. Specifically ‘mother’s brother’,,55,,^ * k u k u $,default,**kuku/a,uncle
+ProPaTa-gray-1,,ProPaTa,gray,**kuru,**kuru,k u r u,,,56,,^ * * k u r u $,default,**kuru,gray
+pP-gray-1,,pP,gray,*koro,*koro,k o r o,,,56,,^ * k o r o $,default,**kuru,"ashy color,gray,mouldy"
+pT-gray-1,,pT,gray,*kuřu,*kuřu,k u ɽ u,,,56,,^ * k u ř u $,default,**kuru,"mature,white-haired,rip"
+ProPaTa-wildturkeysp-1,,ProPaTa,wildturkeysp,**kuṣu,**kuṣu,k u ʃ u,,,57,,^ * * k u ṣ u $,default,**kuṣu,wild turkey sp.
+pP-wildturkeysp-1,,pP,wildturkeysp,*koṣ̌o,*koṣ̌o,k o ʃ o,,,57,,^ * k o ṣ̌ o $,default,**kuṣu,wild turkey sp.
+pT-wildturkeysp-1,,pT,wildturkeysp,*kucu,*kucu,k u ʈʂ u,,,57,,^ * k u c u $,default,**kuṣu,wild turkey sp.
+ProPaTa-togo-1,,ProPaTa,togo,**kʷa-,**kʷa-,kʷ a,,,58,,^ * * kʷ a -$,default,**kʷa,to go
+pP-togo-1,,pP,togo,*kʷa-,*kʷa-,kʷ a,,,58,,^ * kʷ a -$,default,**kʷa,to go
+pT-togo-1,,pT,togo,*kʷa-,*kʷa-,kʷ a,,,58,,^ * kʷ a -$,default,**kʷa,to go
+ProPaTa-mouth-1,,ProPaTa,mouth,"**kʷɨ,**kɨ",**kʷɨ,kʷ ɨ,,,59,,^ * * kʷ ɨ $,default,"**kʷɨ,**kɨ",mouth
+ProPaTa-mouth-2,,ProPaTa,mouth,"**kʷɨ,**kɨ",**kɨ,k ɨ,,,59,,^ * * k ɨ $,default,"**kʷɨ,**kɨ",mouth
+pP-mouth-1,,pP,mouth,*kʷɨbiči,*kʷɨbiči,kʷ ɨ b i tʃ i,,,59,,^ * kʷ ɨ b i č i $,default,"**kʷɨ,**kɨ","lip,mouth"
+pP-mouth-2,,pP,mouth,*kʷɨna,*kʷɨna,kʷ ɨ n a,,,59,,^ * kʷ ɨ n a $,default,"**kʷɨ,**kɨ",to call (someone)
+pP-mouth-3,,pP,mouth,*kʷɨni,*kʷɨni,kʷ ɨ n i,,,59,,^ * kʷ ɨ n i $,default,"**kʷɨ,**kɨ",beard
+pP-mouth-4,,pP,mouth,*kʷɨṣ̌aCV,*kʷɨṣ̌aCV,kʷ ɨ ʃ a !C/p !V/i,,,59,,^ * kʷ ɨ ṣ̌ a C V $,default,"**kʷɨ,**kɨ",mouth
+pP-mouth-5,,pP,mouth,*kʷɨṣ̌ni,*kʷɨṣ̌ni,kʷ ɨ ʃ n i,,,59,,^ * kʷ ɨ ṣ̌ n i $,default,"**kʷɨ,**kɨ",beard
+pP-mouth-6,,pP,mouth,*kʷɨɨ̹-,*kʷɨɨ̹-,kʷ ɨ ɨ,,,59,,^ * kʷ ɨ ɨ̹ -$,default,"**kʷɨ,**kɨ","to praise,desire"
+pP-mouth-7,,pP,mouth,*kɨyo-,*kɨyo-,k ɨ j o,,,59,,^ * k ɨ y o -$,default,"**kʷɨ,**kɨ",to bite
+pP-mouth-8,,pP,mouth,*koi,*koi,k o i,,,59,,^ * k o i $,default,"**kʷɨ,**kɨ","chin,jaw"
+pT-mouth-1,,pT,mouth,*kʷe,*kʷe,kʷ e,,,59,,^ * kʷ e $,default,"**kʷɨ,**kɨ","beard,etc."
+pT-mouth-2,,pT,mouth,*kʷaca,*kʷaca,kʷ a ʈʂ a,,,59,,^ * kʷ a c a $,default,"**kʷɨ,**kɨ",mouth
+ProPaTa-sharp-1,,ProPaTa,sharp,**kʷɨNu,**kʷɨNu,kʷ ɨ !N/n u,,,60,,^ * * kʷ ɨ N u $,default,**kʷɨNu,sharp
+pP-sharp-1,,pP,sharp,*kʷɨno,*kʷɨno,kʷ ɨ n o,,,60,,^ * kʷ ɨ n o $,default,**kʷɨNu,"sharpen (a point),sharp edge"
+pT-sharp-1,,pT,sharp,*kʷeru,*kʷeru,kʷ e r u,,,60,,^ * kʷ e r u $,default,**kʷɨNu,sharp
+ProPaTa-negativesuffix-1,,ProPaTa,negativesuffix,**-(...a)ma,**-ma,m a,,,61,,^ **- m a $,default,**-(...a)ma,negative suffix
+pP-negativesuffix-1,,pP,negativesuffix,*-(ya)ma,*-ma,m a,,,61,,^ *- m a $,default,**-(...a)ma,negative suffix (verbal)
+pT-negativesuffix-1,,pT,negativesuffix,*-(a)ma,*-ma,m a,,,61,,^ *- m a $,default,**-(...a)ma,negative suffix (verbal and nominal)
+ProPaTa-hillpeak-1,,ProPaTa,hillpeak,"**ma…,*maʔči",**ma…,m a,,,62,,^ * * m a … $,default,"**ma…,*maʔči","hill,peak"
+ProPaTa-hillpeak-2,,ProPaTa,hillpeak,"**ma…,*maʔči",*maʔči,m a ʔ tʃ i,,,62,,^ * m a ʔ č i $,default,"**ma…,*maʔči","hill,peak"
+pP-hillpeak-1,,pP,hillpeak,*maʔči,*maʔči,m a ʔ tʃ i,,,62,,^ * m a ʔ č i $,default,"**ma…,*maʔči","hill,crown of head"
+pP-hillpeak-2,,pP,hillpeak,*mana̹,*mana̹,m a n a,,,62,,^ * m a n a̹ $,default,"**ma…,*maʔči","up,hill"
+pP-hillpeak-3,,pP,hillpeak,*mapɨ,*mapɨ,m a p ɨ,,,62,,^ * m a p ɨ $,default,"**ma…,*maʔči",to go up an incline
+pP-hillpeak-4,,pP,hillpeak,*maṣ̌kača,*maṣ̌kača,m a ʃ k a tʃ a,,,62,,^ * m a ṣ̌ k a č a $,default,"**ma…,*maʔči","head,peak"
+pP-hillpeak-5,,pP,hillpeak,*ma-,*ma-,m a,,,62,,^ * m a -$,default,"**ma…,*maʔči",head (instrumental prefix)
+pT-hillpeak-1,,pT,hillpeak,*mata,*mata,m a t a,,,62,,^ * m a t a $,default,"**ma…,*maʔči","summit,mountain,top of head"
+pT-hillpeak-2,,pT,hillpeak,*matina,*matina,m a t i n a,,,62,,^ * m a t i n a $,default,"**ma…,*maʔči","summit,point"
+ProPaTa-earth-1,,ProPaTa,earth,**mai-,**mai-,m a i,,,63,,^ * * m a i -$,default,**mai-,earth
+pP-earth-1,,pP,earth,*mai,*mai,m a i,,,63,,^ * m a i $,default,**mai-,earth
+pP-earth-2,,pP,earth,*mai̹,*mai̹,m a i,,,63,,^ * m a i̹ $,default,**mai-,by land
+pP-earth-3,,pP,earth,*mai̹- ~ *maiwa-,*mai̹-,m a i,,,63,,^ * m a i̹ -$,default,**mai-,to bury
+pP-earth-4,,pP,earth,*mai̹- ~ *maiwa-,*maiwa-,m a i w a,,,63,,^ * m a i w a -$,default,**mai-,to bury
+pP-earth-5,,pP,earth,*maṣ̌i,*maṣ̌i,m a ʃ i,Shell’s *masṣ̌i,,63,,^ * m a ṣ̌ i $,default,**mai-,sand
+pT-earth-1,,pT,earth,"*me1-,*meʔi,*mec̹i",*me1-,m e,,,63,,^ * m e 1 -$,default,**mai-,"earth,sand,etc"
+pT-earth-2,,pT,earth,"*me1-,*meʔi,*mec̹i",*meʔi,m e ʔ i,,,63,,^ * m e ʔ i $,default,**mai-,"earth,sand,etc"
+pT-earth-3,,pT,earth,"*me1-,*meʔi,*mec̹i",*mec̹i,m e ʈʂ i,,,63,,^ * m e c̹ i $,default,**mai-,"earth,sand,etc"
+ProPaTa-piranha-1,,ProPaTa,piranha,**makɨ,**makɨ,m a k ɨ,,,64,,^ * * m a k ɨ $,default,**makɨ,piranha
+pP-piranha-1,,pP,piranha,*makɨ,*makɨ,m a k ɨ,,,64,,^ * m a k ɨ $,default,**makɨ,piranha
+pT-piranha-1,,pT,piranha,*make,*make,m a k e,,,64,,^ * m a k e $,default,**makɨ,piranha
+ProPaTa-todie-1,,ProPaTa,todie,"**ma-,**manu-",**ma-,m a,,,65,,^ * * m a -$,default,"**ma-,**manu-",to die
+ProPaTa-todie-2,,ProPaTa,todie,"**ma-,**manu-",**manu-,m a n u,,,65,,^ * * m a n u -$,default,"**ma-,**manu-",to die
+pP-todie-1,,pP,todie,*manu-,*manu-,m a n u,,,65,,^ * m a n u -$,default,"**ma-,**manu-",to forget
+pP-todie-2,,pP,todie,*mawa-,*mawa-,m a w a,,,65,,^ * m a w a -$,default,"**ma-,**manu-",to die
+pT-todie-1,,pT,todie,*ma-,*ma-,m a,,,65,,^ * m a -$,default,"**ma-,**manu-",to die
+pT-todie-2,,pT,todie,*manu-,*manu-,m a n u,,,65,,^ * m a n u -$,default,"**ma-,**manu-",to die
+ProPaTa-choppermortar-1,,ProPaTa,choppermortar,**manVkanV,**manVkanV,m a n !V/i k a n !V/i,,,66,,^ * * m a n V k a n V $,default,**manVkanV,"chopper,mortar"
+pP-choppermortar-1,,pP,choppermortar,*ma̹kaNV,*ma̹kaNV,m a k a !N/n !V/i,,,66,,^ * m a̹ k a N V $,default,**manVkanV,"stone chopper,pestle"
+pT-choppermortar-1,,pT,choppermortar,*a-maka,*a-maka,a + m a k a,also cf. Kav,,66,,^ * a - m a k a $,default,**manVkanV,"mortar,chopper,grinder"
+ProPaTa-achiote-1,,ProPaTa,achiote,**maṣ̌ɨ,**maṣ̌ɨ,m a ʃ ɨ,,,67,,^ * * m a ṣ̌ ɨ $,default,**maṣ̌ɨ,achiote
+pP-achiote-1,,pP,achiote,*maṣ̌ɨ,*maṣ̌ɨ,m a ʃ ɨ,,,67,,^ * m a ṣ̌ ɨ $,default,**maṣ̌ɨ,achiote
+pT-achiote-1,,pT,achiote,*mac̣e,*mac̣e,m a ʈʂ e,,,67,,^ * m a c̣ e $,default,**maṣ̌ɨ,achiote
+ProPaTa-bad-1,,ProPaTa,bad,**ma…,**ma…,m a,,,68,,^ * * m a … $,default,**ma…,bad
+pP-bad-1,,pP,bad,*…,*…,,,,68,,^ * … $,default,**ma…,bad
+pT-bad-1,,pT,bad,*maza-da,*maza-da,m a z a + d a,,,68,,^ * m a z a - d a $,default,**ma…,bad
+ProPaTa-tell-1,,ProPaTa,tell,**mi-,**mi-,m i,,,69,,^ * * m i -$,default,**mi-,tell
+pP-tell-1,,pP,tell,*mi-,*mi-,m i,(?),,69,,^ * m i -$,default,**mi-,"story,tell a story"
+pT-tell-1,,pT,tell,*mimi-,*mimi-,m i m i,,,69,,^ * m i m i -$,default,**mi-,"speak,tell"
+ProPaTa-hand-1,,ProPaTa,hand,**mɨ-,**mɨ-,m ɨ,,,70,,^ * * m ɨ -$,default,**mɨ-,hand
+pP-hand-1,,pP,hand,*mɨ-,*mɨ-,m ɨ,,,70,,^ * m ɨ -$,default,**mɨ-,hand (instrumental prefix)
+pP-hand-2,,pP,hand,*mɨʔi-,*mɨʔi-,m ɨ ʔ i,,,70,,^ * m ɨ ʔ i -$,default,**mɨ-,touch with hand
+pP-hand-3,,pP,hand,*mɨ̹-cis(t)i,*mɨ̹-cisi,m ɨ + ʈʂ i s i,,,70,,^ * m ɨ̹ - c i s i $,default,**mɨ-,fingernail
+pP-hand-4,,pP,hand,*mɨ-kɨnɨ,*mɨ-kɨnɨ,m ɨ + k ɨ n ɨ,,,70,,^ * m ɨ - k ɨ n ɨ $,default,**mɨ-,hand
+pP-hand-5,,pP,hand,*mɨ-toti,*mɨ-toti,m ɨ + t o t i,,,70,,^ * m ɨ - t o t i $,default,**mɨ-,index finger
+pP-hand-6,,pP,hand,*mɨ-bi,*mɨ-bi,m ɨ + b i,,,70,,^ * m ɨ - b i $,default,**mɨ-,"branch,hand"
+pP-hand-7,,pP,hand,*mɨ-ṣ̌o-,*mɨ-ṣ̌o-,m ɨ + ʃ o,,,70,,^ * m ɨ - ṣ̌ o -$,default,**mɨ-,creep on hands and knees
+pT-hand-1,,pT,hand,*me2-,*me2-,m e,,,70,,^ * m e 2 -$,default,**mɨ-,hand
+pT-hand-2,,pT,hand,*me-tiji,*me-tiji,m e + t i j i,,,70,,^ * m e - t i j i $,default,**mɨ-,"fingernail,etc"
+ProPaTa-night-1,,ProPaTa,night,**(-)mɨta,**mɨta,m ɨ t a,,,71,,^ * * m ɨ t a $,default,**(-)mɨta,night
+pP-night-1,,pP,night,*yamɨCV,*yamɨCV,j a m ɨ !C/p !V/i,(:*yamɨta),,71,,^ * y a m ɨ C V $,default,**(-)mɨta,night
+pP-night-2,,pP,night,*ya̹ta̹,*ya̹ta̹,j a t a,(:*yamɨta-n,,71,,^ * y a̹ t a̹ $,default,**(-)mɨta,night
+pT-night-1,,pT,night,*meta,*meta,m e t a,The form in Takana is mueta which is the reflex generally of a hypothetical *maeta. In the 1880s Armentia transcribed the Takana word as <maeta>. The irregularity of the Takana form has never been explained: now it is possible to speculate on the metathesis of the initial *ya- found in Panoan.,,71,,^ * m e t a $,default,**(-)mɨta,night
+ProPaTa-thou-1,,ProPaTa,thou,**mi,**mi,m i,,,72,,^ * * m i $,default,**mi,thou
+pP-thou-1,,pP,thou,*mi,*mi,m i,,,72,,^ * m i $,default,**mi,thou
+pT-thou-1,,pT,thou,*mi,*mi,m i,,,72,,^ * m i $,default,**mi,thou
+ProPaTa-todry-1,,ProPaTa,todry,*mur…,*mur…,m u r,,,73,,^ * m u r … $,default,**mur…,to dry
+pP-todry-1,,pP,todry,*moro,*moro,m o r o,,,73,,^ * m o r o $,default,**mur…,to dry
+pT-todry-1,,pT,todry,*muři,*muři,m u ɽ i,,,73,,^ * m u ř i $,default,**mur…,to dry
+ProPaTa-togetwetbewet-1,,ProPaTa,togetwetbewet,**Mɨ-,**Mɨ-,m ɨ,,,74,,^ * * M ɨ -$,default,**Mɨ-,"to get wet,be wet"
+pP-togetwetbewet-1,,pP,togetwetbewet,*mɨʔča,*mɨʔča,m ɨ ʔ tʃ a,"Shell does not account for such forms in her cognate sets as Isconawa mbɨča ‘wet’, mbɨčaki̹ ‘be wet’, Yaninawa buitšɨdɨ ‘wet’, which point to *b̴ rather than to *m. Also to be found in Shell is pP *mɨwɨ ‘waterhole’. Here again, Isconawa shows mbɨwɨ ‘waterhole’. Abreu’s Cashinawa shows”: bɨa ‘to draw liquid from a vase’, bɨsa ‘fine rain’, bɨca ‘wash outside’, bɨcis ‘to put out fire with water’, and bɨča ‘to wash the face, to wash outside’. It is possible that two roots are present here: *mɨ+ča ‘to wet hands’ and *b̴i+ča ‘to wet the face’. PT *beca ‘to swim’. This Takanan form is to be found under *be3- ‘arm,shoulder’ because Armentia glossed the Takana form beca as ‘breacer, that is, move the arms, brachiate’",,74,,^ * m ɨ ʔ č a $,default,**Mɨ-,"to get wet,be wet"
+ProPaTa-water-1,,ProPaTa,water,**na-,**na-,n a,,,75,,^ * * n a -$,default,**na-,water
+pP-water-1,,pP,water,*naši-,*naši-,n a ʂ i,,,75,,^ * n a š i -$,default,**na-,bathe
+pT-water-1,,pT,water,*na-,*na-,n a,,,75,,^ * n a -$,default,**na-,"water,plus many compounds"
+ProPaTa-standgo-1,,ProPaTa,standgo,**ni-,**ni-,n i,,,76,,^ * * n i -$,default,**ni-,"stand,go"
+pP-standgo-1,,pP,standgo,*ni-,*ni-,n i,,,76,,^ * n i -$,default,**ni-,"stand,go"
+pT-standgo-1,,pT,standgo,*a-ni-,*a-ni-,a + n i,,,76,,^ * a - n i -$,default,**ni-,to be
+pT-standgo-2,,pT,standgo,*ni-tia-,*ni-tia-,n i + t i a,,,76,,^ * n i - t i a -$,default,**ni-,leave
+pT-standgo-3,,pT,standgo,*neti-,*neti-,n e t i,(?),,76,,^ * n e t i -$,default,**ni-,to stand (upright)
+ProPaTa-deliciousasfruits-1,,ProPaTa,deliciousasfruits,**nu(ɨ),**nu,n u,,,77,,^ * * n u $,default,**nu(ɨ),delicious (as fruits)
+pP-deliciousasfruits-1,,pP,deliciousasfruits,*noɨ/a,*noɨ/a,n o !ɨa/a,,,77,,^ * n o ɨ/a $,default,**nu(ɨ),"delicious,savory (of fruit,nuts,etc)"
+pT-deliciousasfruits-1,,pT,deliciousasfruits,*nui,*nui,n u i,,,77,,^ * n u i $,default,**nu(ɨ),"delicious, as fruit"
+ProPaTa-fleshmeat-1,,ProPaTa,fleshmeat,**Nami,**Nami,!N/n a m i,,,78,,^ * * N a m i $,default,**Nami,"flesh,meat"
+pP-fleshmeat-1,,pP,fleshmeat,*nami,*nami,n a m i,,,78,,^ * n a m i $,default,**Nami,"flesh,meat"
+pT-fleshmeat-1,,pT,fleshmeat,*rami,*rami,r a m i,,,78,,^ * r a m i $,default,**Nami,meat
+ProPaTa-demonstrative-2,,ProPaTa,demonstrative,**Nɨ-,**Nɨ-,!N/n ɨ,,,79,,^ * * N ɨ -$,default,**Nɨ-,demonstrative
+pT-demonstrative-2,,pT,demonstrative,*rei-,*rei-,r e i,,,79,,^ * r e i -$,default,**Nɨ-,demonstrative
+ProPaTa-putintoenter-1,,ProPaTa,putintoenter,"**Ṇu,*Ṇubi-",**Ṇu,d u,,,80,,^ * * Ṇ u $,default,"**Ṇu,*Ṇubi-","put in,to enter"
+ProPaTa-putintoenter-2,,ProPaTa,putintoenter,"**Ṇu,*Ṇubi-",*Ṇubi-,d u b i,,,80,,^ * Ṇ u b i -$,default,"**Ṇu,*Ṇubi-","put in,to enter"
+pT-putintoenter-1,,pT,putintoenter,*du2-,*du2-,d u,,,80,,^ * d u 2 -$,default,"**Ṇu,*Ṇubi-","deep,within"
+pT-putintoenter-2,,pT,putintoenter,*dubi-,*dubi-,d u b i,,,80,,^ * d u b i -$,default,"**Ṇu,*Ṇubi-",to put in
+pT-putintoenter-3,,pT,putintoenter,*nubi-,*nubi-,n u b i,,,80,,^ * n u b i -$,default,"**Ṇu,*Ṇubi-",to enter
+ProPaTa-augmentativesuffix-1,,ProPaTa,augmentativesuffix,**-pa,**-pa,p a,,,81,,^ **- p a $,default,**-pa,augmentative suffix
+pP-augmentativesuffix-1,,pP,augmentativesuffix,*-pa,*-pa,p a,"generally with a reference to animal as opposed to human body parts, and probably no longer productive",,81,,^ *- p a $,default,**-pa,augmentative suffix
+pT-augmentativesuffix-1,,pT,augmentativesuffix,*-pa,*-pa,p a,apparently productive,,81,,^ *- p a $,default,**-pa,general augmentative suffix
+ProPaTa-rawgreenbitter-1,,ProPaTa,rawgreenbitter,**paṣ…,**paṣ…,p a ʃ,,,82,,^ * * p a ṣ … $,default,**paṣ…,"raw,green,bitter"
+pP-rawgreenbitter-1,,pP,rawgreenbitter,*paṣ̌a,*paṣ̌a,p a ʃ a,,,82,,^ * p a ṣ̌ a $,default,**paṣ…,"raw,green"
+pT-rawgreenbitter-1,,pT,rawgreenbitter,*pace,*pace,p a ʈʂ e,,,82,,^ * p a c e $,default,**paṣ…,bitter
+ProPaTa-toucan-1,,ProPaTa,toucan,**piza,**piza,p i z a,,,83,,^ * * p i z a $,default,**piza,toucan
+pP-toucan-1,,pP,toucan,*pisa,*pisa,p i s a,,,83,,^ * p i s a $,default,**piza,toucan
+pT-toucan-1,,pT,toucan,*pica ~ *pija,*pica,p i ʈʂ a,"Some sources gloss this word as ‘pinsha, bird sp.’ and the word may therefore be a loan into Pano-Takanan, which may account for its slight irregularity to Takanan.",,83,,^ * p i c a $,default,**piza,toucan
+pT-toucan-2,,pT,toucan,*pica ~ *pija,*pija,p i j a,"Some sources gloss this word as ‘pinsha, bird sp.’ and the word may therefore be a loan into Pano-Takanan, which may account for its slight irregularity to Takanan.",,83,,^ * p i j a $,default,**piza,toucan
+ProPaTa-arrow-1,,ProPaTa,arrow,**pi…,**pi…,p i,,,84,,^ * * p i … $,default,**pi…,arrow
+pP-arrow-1,,pP,arrow,*pia,*pia,p i a,,,84,,^ * p i a $,default,**pi…,arrow
+pT-arrow-1,,pT,arrow,*pisa,*pisa,p i s a,The Takanan form has some peculiarities: Kav has piya and not the expected piha.,,84,,^ * p i s a $,default,**pi…,arrow
+ProPaTa-owl-1,,ProPaTa,owl,**pupu,**pupu,p u p u,,,85,,^ * * p u p u $,default,**pupu,owl
+pT-owl-1,,pT,owl,*(pupu),*,,,,85,,^ * $,default,**pupu,owl
+ProPaTa-butterfly-1,,ProPaTa,butterfly,**p…,**p…,p,,,86,,^ * * p … $,default,**p…,butterfly
+pT-butterfly-1,,pT,butterfly,"*sapipi,*sababa,sapuřa",*sapipi,s a p i p i,,,86,,^ * s a p i p i $,default,**p…,butterfly
+pT-butterfly-2,,pT,butterfly,"*sapipi,*sababa,sapuřa",*sababa,s a b a b a,,,86,,^ * s a b a b a $,default,**p…,butterfly
+pT-butterfly-3,,pT,butterfly,"*sapipi,*sababa,sapuřa",sapuřa,s a p u ɽ a,,,86,,^ s a p u ř a $,default,**p…,butterfly
+ProPaTa-arm-1,,ProPaTa,arm,**Pɨya…,**Pɨya…,!P/p ɨ j a,(?),,87,,^ * * P ɨ y a … $,default,**Pɨya…,arm
+pP-arm-1,,pP,arm,*poyami,*poyami,p o j a m i,but cf. Csh,,87,,^ * p o y a m i $,default,**Pɨya…,arm
+pT-arm-1,,pT,arm,*ba3-,*ba3-,b a,,,87,,^ * b a 3 -$,default,**Pɨya…,arm
+pT-arm-2,,pT,arm,*be3-,*be3-,b e,,,87,,^ * b e 3 -$,default,**Pɨya…,"arm,shoulder"
+ProPaTa-siblingofoppositesex-1,,ProPaTa,siblingofoppositesex,**Pu{i/ɨ},**Pu{i/ɨ},!P/p u !iɨ/i,,,88,,^ * * P u {i/ɨ} $,default,**Pu{i/ɨ},sibling of opposite sex
+pP-siblingofoppositesex-1,,pP,siblingofoppositesex,*poi,*poi,p o i,,,88,,^ * p o i $,default,**Pu{i/ɨ},sibling of opposite sex
+pT-siblingofoppositesex-1,,pT,siblingofoppositesex,"*bu4-,*bui/e",*bu4-,b u,,,88,,^ * b u 4 -$,default,**Pu{i/ɨ},son/daughter of mother’s sister
+pT-siblingofoppositesex-2,,pT,siblingofoppositesex,"*bu4-,*bui/e",*bui/e,b u !ie/i,,,88,,^ * b u i/e $,default,**Pu{i/ɨ},son/daughter of mother’s sister
+ProPaTa-totie-1,,ProPaTa,totie,"**ri…,*ris…",**ri…,r i,,,89,,^ * * r i … $,default,"**ri…,*ris…",to tie
+ProPaTa-totie-2,,ProPaTa,totie,"**ri…,*ris…",*ris…,r i s,,,89,,^ * r i s … $,default,"**ri…,*ris…",to tie
+pP-totie-1,,pP,totie,*risi(st)i,*risii,r i s i i,,,89,,^ * r i s i i $,default,"**ri…,*ris…",thread
+pP-totie-2,,pP,totie,*risb̴iči,*risb̴iči,r i s β i tʃ i,,,89,,^ * r i s b̴ i č i $,default,"**ri…,*ris…","rope,thong"
+pT-totie-1,,pT,totie,*řibi,*řibi,ɽ i b i,,,89,,^ * ř i b i $,default,"**ri…,*ris…",a snare made of ropes
+pT-totie-2,,pT,totie,*řisi,*řisi,ɽ i s i,,,89,,^ * ř i s i $,default,"**ri…,*ris…",to tie
+pT-totie-3,,pT,totie,*řiře,*řiře,ɽ i ɽ e,,,89,,^ * ř i ř e $,default,"**ri…,*ris…",to snare
+ProPaTa-intestines-1,,ProPaTa,intestines,"**ṣa-,**ṣama",**ṣa-,ʃ a,,,90,,^ * * ṣ a -$,default,"**ṣa-,**ṣama",intestines
+ProPaTa-intestines-2,,ProPaTa,intestines,"**ṣa-,**ṣama",**ṣama,ʃ a m a,,,90,,^ * * ṣ a m a $,default,"**ṣa-,**ṣama",intestines
+pP-intestines-1,,pP,intestines,"*ṣ̌a-,ṣ̌ama-",*ṣ̌a-,ʃ a,,,90,,^ * ṣ̌ a -$,default,"**ṣa-,**ṣama",intestines
+pP-intestines-2,,pP,intestines,"*ṣ̌a-,ṣ̌ama-",ṣ̌ama-,ʃ a m a,,,90,,^ ṣ̌ a m a -$,default,"**ṣa-,**ṣama",intestines
+pT-intestines-1,,pT,intestines,*c̣a1-,*c̣a1-,ʈʂ a,,,90,,^ * c̣ a 1 -$,default,"**ṣa-,**ṣama",many compounds with reference to stringlike objects
+pT-intestines-2,,pT,intestines,*c̣ama,*c̣ama,ʈʂ a m a,,,90,,^ * c̣ a m a $,default,"**ṣa-,**ṣama",intestines
+ProPaTa-hairfeathers-1,,ProPaTa,hairfeathers,**ṣaNu-,**ṣaNu-,ʃ a !N/n u,probably related to item 90 above,,91,,^ * * ṣ a N u -$,default,**ṣaNu-,"hair,feathers"
+pT-hairfeathers-1,,pT,hairfeathers,*c̣aru-,*c̣aru-,ʈʂ a r u,,,91,,^ * c̣ a r u -$,default,**ṣaNu-,"hair,feathers"
+ProPaTa-mapajo-1,,ProPaTa,mapajo,**ṣapu,**ṣapu,ʃ a p u,doubtless related to item 90 above,,92,,^ * * ṣ a p u $,default,**ṣapu,mapajo
+pP-mapajo-1,,pP,mapajo,*ṣ̌apo,*ṣ̌apo,ʃ a p o,,,92,,^ * ṣ̌ a p o $,default,**ṣapu,"mapajo,algodón silvestre (a tree sp. With natural wool)"
+pT-mapajo-1,,pT,mapajo,*c̣apu,*c̣apu,ʈʂ a p u,,,92,,^ * c̣ a p u $,default,**ṣapu,mapajo
+ProPaTa-bone-1,,ProPaTa,bone,**ṣau,**ṣau,ʃ a u,,,93,,^ * * ṣ a u $,default,**ṣau,bone
+pP-bone-1,,pP,bone,*ṣ̌ao,*ṣ̌ao,ʃ a o,,,93,,^ * ṣ̌ a o $,default,**ṣau,bone
+pT-bone-1,,pT,bone,*c̣au,*c̣au,ʈʂ a u,,,93,,^ * c̣ a u $,default,**ṣau,bone
+ProPaTa-daynight-1,,ProPaTa,daynight,**ṣinV,**ṣinV,ʃ i n !V/i,,,94,,^ * * ṣ i n V $,default,**ṣinV,"day,night"
+pT-daynight-1,,pT,daynight,*c̣ine/a,*c̣ine/a,ʈʂ i n !ea/a,"The Takanan form is found in both free and bound form, for example, Tak. Hanawa-cine-ke ‘rest all day’",,94,,^ * c̣ i n e/a $,default,**ṣinV,"night,afternoon"
+ProPaTa-marihui-1,,ProPaTa,marihui,**ṣiu,**ṣiu,ʃ i u,,,95,,^ * * ṣ i u $,default,**ṣiu,marihuí
+pP-marihui-1,,pP,marihui,*ṣ̌io,*ṣ̌io,ʃ i o,Shell’s *[š]io,,95,,^ * ṣ̌ i o $,default,**ṣiu,marihuí (gnat sp.)
+pT-marihui-1,,pT,marihui,*c̣iu,*c̣iu,ʈʂ i u,,,95,,^ * c̣ i u $,default,**ṣiu,marihuí
+ProPaTa-tooth-1,,ProPaTa,tooth,"**ṣɨ-,**ṣɨ-wɨ",**ṣɨ-,ʃ ɨ,,,96,,^ * * ṣ ɨ -$,default,"**ṣɨ-,**ṣɨ-wɨ",tooth
+ProPaTa-tooth-2,,ProPaTa,tooth,"**ṣɨ-,**ṣɨ-wɨ",**ṣɨ-wɨ,ʃ ɨ + w ɨ,,,96,,^ * * ṣ ɨ - w ɨ $,default,"**ṣɨ-,**ṣɨ-wɨ",tooth
+pP-tooth-1,,pP,tooth,*ṣ̌ɨ-ta,*ṣ̌ɨ-ta,ʃ ɨ + t a,,,96,,^ * ṣ̌ ɨ - t a $,default,"**ṣɨ-,**ṣɨ-wɨ",tooth
+pP-tooth-2,,pP,tooth,*ṣ̌ɨ-wɨ,*ṣ̌ɨ-wɨ,ʃ ɨ + w ɨ,,,96,,^ * ṣ̌ ɨ - w ɨ $,default,"**ṣɨ-,**ṣɨ-wɨ",fishhook
+pT-tooth-1,,pT,tooth,*c̣e,*c̣e,ʈʂ e,,,96,,^ * c̣ e $,default,"**ṣɨ-,**ṣɨ-wɨ",tooth
+pT-tooth-2,,pT,tooth,*c̣ewe,*c̣ewe,ʈʂ e w e,,,96,,^ * c̣ e w e $,default,"**ṣɨ-,**ṣɨ-wɨ",hook
+ProPaTa-doorway-1,,ProPaTa,doorway,**ṣɨkʷɨ,**ṣɨkʷɨ,ʃ ɨ kʷ ɨ,,,97,,^ * * ṣ ɨ kʷ ɨ $,default,**ṣɨkʷɨ,doorway
+pP-doorway-1,,pP,doorway,*ṣ̌ɨkʷɨ,*ṣ̌ɨkʷɨ,ʃ ɨ kʷ ɨ,,,97,,^ * ṣ̌ ɨ kʷ ɨ $,default,**ṣɨkʷɨ,doorway
+pT-doorway-1,,pT,doorway,*c̣ekʷe,*c̣ekʷe,ʈʂ e kʷ e,,,97,,^ * c̣ e kʷ e $,default,**ṣɨkʷɨ,"door,-way"
+ProPaTa-worm-1,,ProPaTa,worm,**ṣɨna,**ṣɨna,ʃ ɨ n a,,,98,,^ * * ṣ ɨ n a $,default,**ṣɨna,worm
+pP-worm-1,,pP,worm,*ṣ̌ɨna,*ṣ̌ɨna,ʃ ɨ n a,,,98,,^ * ṣ̌ ɨ n a $,default,**ṣɨna,worm
+pT-worm-1,,pT,worm,*c̣ena,*c̣ena,ʈʂ e n a,,,98,,^ * c̣ e n a $,default,**ṣɨna,worm
+pP-worm-2,,pP,worm,*ṣ̌ɨni,*ṣ̌ɨni,ʃ ɨ n i,,,99,,^ * ṣ̌ ɨ n i $,default,**ṣɨNi,"fat,grease"
+pT-worm-2,,pT,worm,*c̣eri,*c̣eri,ʈʂ e r i,,,99,,^ * c̣ e r i $,default,**ṣɨna,fat
+ProPaTa-boneassecondmemberofacompound-1,,ProPaTa,boneassecondmemberofacompound,**ṣu (< **ṣau),**ṣu,ʃ u,,,100,,^ * * ṣ u $,default,**ṣu (< **ṣau),bone (as a second member of a compound)
+pP-boneassecondmemberofacompound-1,,pP,boneassecondmemberofacompound,*-ṣ̌o,*-ṣ̌o,ʃ o,,,100,,^ *- ṣ̌ o $,default,**ṣu (< **ṣau),bone (as a second member of a compound)
+pT-boneassecondmemberofacompound-1,,pT,boneassecondmemberofacompound,*-c̣u,*-c̣u,ʈʂ u,cf. pT *ba(i)-c̣u ‘elbow’. The etymology of Tak. *-c̣u however may be related to *c̣u1- and not to *c̣au.,,100,,^ *- c̣ u $,default,**ṣu (< **ṣau),bone (as a second member of a compound)
+ProPaTa-toucan-2,,ProPaTa,toucan,**ṣuk(ʷ)ɨ,**ṣukɨ,ʃ u k ɨ,,,101,,^ * * ṣ u k ɨ $,default,**ṣuk(ʷ)ɨ,toucan
+pP-toucan-2,,pP,toucan,*ṣ̌okɨ,*ṣ̌okɨ,ʃ o k ɨ,,,101,,^ * ṣ̌ o k ɨ $,default,**ṣuk(ʷ)ɨ,toucan
+pT-toucan-3,,pT,toucan,*cukʷe,*cukʷe,ʈʂ u kʷ e,,,101,,^ * c u kʷ e $,default,**ṣuk(ʷ)ɨ,toucan
+ProPaTa-eye-1,,ProPaTa,eye,**šipi,**šipi,ʂ i p i,,,102,,^ * * š i p i $,default,**šipi,eye
+pP-eye-1,,pP,eye,*bɨšpi,*bɨšpi,b ɨ ʂ p i,(<*bɨ+šipi?),,102,,^ * b ɨ š p i $,default,**šipi,"eyebrow,eyelash"
+pT-eye-1,,pT,eye,…?,…?,,Highly problematic,,102,,^ … ? $,default,**šipi,eye
+ProPaTa-footleg-1,,ProPaTa,footleg,**ta-,**ta-,t a,,,103,,^ * * t a -$,default,**ta-,"foot,leg"
+pP-footleg-1,,pP,footleg,*taʔɨ,*taʔɨ,t a ʔ ɨ,,,103,,^ * t a ʔ ɨ $,default,**ta-,foot
+pT-footleg-1,,pT,footleg,*ta-,*ta-,t a,,,103,,^ * t a -$,default,**ta-,"foot,leg"
+ProPaTa-liver-1,,ProPaTa,liver,**takʷa,**takʷa,t a kʷ a,,,104,,^ * * t a kʷ a $,default,**takʷa,liver
+pP-liver-1,,pP,liver,*takʷa,*takʷa,t a kʷ a,,,104,,^ * t a kʷ a $,default,**takʷa,liver
+pT-liver-1,,pT,liver,*takʷa,*takʷa,t a kʷ a,,,104,,^ * t a kʷ a $,default,**takʷa,liver
+ProPaTa-cheek-1,,ProPaTa,cheek,**tamu,**tamu,t a m u,,,105,,^ * * t a m u $,default,**tamu,cheek
+pP-cheek-1,,pP,cheek,*tamo,*tamo,t a m o,,,105,,^ * t a m o $,default,**tamu,cheek
+ProPaTa-toroll-1,,ProPaTa,toroll,**tara-n-,**tara-n-,t a r a + n,,,106,,^ * * t a r a - n -$,default,**tara-n-,to roll
+pP-toroll-1,,pP,toroll,*tará̹-,*tará̹-,t a r a,,,106,,^ * t a r á̹ -$,default,**tara-n-,"to roll,make something go round"
+pT-toroll-1,,pT,toroll,*tařa,*tařa,t a ɽ a,,,106,,^ * t a ř a $,default,**tara-n-,"ring,corral,around"
+ProPaTa-torow-1,,ProPaTa,torow,**taru-n-,**taru-n-,t a r u + n,,,107,,^ * * t a r u - n -$,default,**taru-n-,to row
+pT-torow-1,,pT,torow,*tařu,*tařu,t a ɽ u,,,107,,^ * t a ř u $,default,**taru-n-,"oar;to row,beat"
+ProPaTa-cane-1,,ProPaTa,cane,**tawa,**tawa,t a w a,,,108,,^ * * t a w a $,default,**tawa,cane
+pP-cane-1,,pP,cane,*tawa,*tawa,t a w a,,,108,,^ * t a w a $,default,**tawa,"cane,bamboo;arrow"
+pT-cane-1,,pT,cane,*ta(wa),*ta,t a,,,108,,^ * t a $,default,**tawa,cane
+ProPaTa-tograspbreak-1,,ProPaTa,tograspbreak,**tɨ(ʔ)k(ʷ)V,**tɨkV,t ɨ k !V/i,,,109,,^ * * t ɨ k V $,default,**tɨ(ʔ)k(ʷ)V,"to grasp,brake"
+pP-tograspbreak-1,,pP,tograspbreak,*tɨʔk(ɨ),*tɨʔk,t ɨ ʔ k,,,109,,^ * t ɨ ʔ k $,default,**tɨ(ʔ)k(ʷ)V,"to grasp,brake"
+pT-tograspbreak-1,,pT,tograspbreak,*tekʷa-,*tekʷa-,t e kʷ a,,,109,,^ * t e kʷ a -$,default,**tɨ(ʔ)k(ʷ)V,"to beat,kill,hunt"
+ProPaTa-general3rdpersonsgandplpronoun-1,,ProPaTa,general3rdpersonsgandplpronoun,**tu1-,**tu1-,t u,,,110,,^ * * t u 1 -$,default,**tu1-,general 3rd person (sg. And pl.) pronoun
+pT-general3rdpersonsgandplpronoun-1,,pT,general3rdpersonsgandplpronoun,*tu1-,*tu1-,t u,,,110,,^ * t u 1 -$,default,**tu1-,general 3rd person (sg. And pl.) pronoun
+ProPaTa-round-1,,ProPaTa,round,**tu2-,**tu2-,t u,,,111,,^ * * t u 2 -$,default,**tu2-,round
+pT-round-1,,pT,round,*tu2-,*tu2-,t u,,,111,,^ * t u 2 -$,default,**tu2-,"round,bent,and many compounds which have reference to that particular shape"
+ProPaTa-undocut-1,,ProPaTa,undocut,"**tu-,**tu-bu-",**tu-,t u,,,112,,^ * * t u -$,default,"**tu-,**tu-bu-","undo,cut"
+ProPaTa-undocut-2,,ProPaTa,undocut,"**tu-,**tu-bu-",**tu-bu-,t u + b u,,,112,,^ * * t u - b u -$,default,"**tu-,**tu-bu-","undo,cut"
+pT-undocut-1,,pT,undocut,*tubu-,*tubu-,t u b u,,,112,,^ * t u b u -$,default,"**tu-,**tu-bu-","to cut,shorten"
+ProPaTa-demonspirit-1,,ProPaTa,demonspirit,**yuṣi,**yuṣi,j u ʃ i,"This is the only correspondance of pP *y and pT *d, despite the fact that pP *y is a fairly common phoneme. These forms may not be original but rather from the Spanish Dios (?)",,113,,^ * * y u ṣ i $,default,**yuṣi,"demon,spirit"
+pP-demonspirit-1,,pP,demonspirit,*yoṣ̌i-ni,*yoṣ̌i-ni,j o ʃ i + n i,,,113,,^ * y o ṣ̌ i - n i $,default,**yuṣi,"demon,spirit"
+pT-demonspirit-1,,pT,demonspirit,*duci,*duci,d u ʈʂ i,,,113,,^ * d u c i $,default,**yuṣi,spirit
+ProPaTa-old-1,,ProPaTa,old,"**ẓɨNi,**ẓiNi",**ẓɨNi,z ɨ !N/n i,,,114,,^ * * ẓ ɨ N i $,default,"**ẓɨNi,**ẓiNi",old
+ProPaTa-old-2,,ProPaTa,old,"**ẓɨNi,**ẓiNi",**ẓiNi,z i !N/n i,,,114,,^ * * ẓ i N i $,default,"**ẓɨNi,**ẓiNi",old
+pP-old-1,,pP,old,*ṣ̌ɨni,*ṣ̌ɨni,ʃ ɨ n i,but cf. Ch,,114,,^ * ṣ̌ ɨ n i $,default,"**ẓɨNi,**ẓiNi",old
+pT-old-1,,pT,old,*ziri,*ziri,z i r i,,,114,,^ * z i r i $,default,"**ẓɨNi,**ẓiNi",old
+ProPaTa-greenunripe-1,,ProPaTa,greenunripe,**ẓ…,**ẓ…,z,,,115,,^ * * ẓ … $,default,**ẓ…,"green,unripe"
+pP-greenunripe-1,,pP,greenunripe,*ṣ̌oo,*ṣ̌oo,ʃ o o,,,115,,^ * ṣ̌ o o $,default,**ẓ…,"green,not ripe"
+pT-greenunripe-1,,pT,greenunripe,*zawa,*zawa,z a w a,"but cf. PT *sawa ‘yellow,ripe’",,115,,^ * z a w a $,default,**ẓ…,"green,unripe"
+ProPaTa-corn-1,,ProPaTa,corn,"**žikɨ,**žɨki",**žikɨ,z i k ɨ,"Both pP and pT forms may, however, be ancient Arawak loans",,116,,^ * * ž i k ɨ $,default,"**žikɨ,**žɨki",corn
+ProPaTa-corn-2,,ProPaTa,corn,"**žikɨ,**žɨki",**žɨki,z ɨ k i,"Both pP and pT forms may, however, be ancient Arawak loans",,116,,^ * * ž ɨ k i $,default,"**žikɨ,**žɨki",corn
+pP-corn-1,,pP,corn,*ṣ̌ɨki,*ṣ̌ɨki,ʃ ɨ k i,but cf. Csh,,116,,^ * ṣ̌ ɨ k i $,default,"**žikɨ,**žɨki",corn
+pT-corn-1,,pT,corn,*jike,*jike,j i k e,,,116,,^ * j i k e $,default,"**žikɨ,**žɨki",corn
