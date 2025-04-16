@@ -1,5 +1,7 @@
 # CLDF dataset derived from Girard's "Proto-Takanan Phonology" from 1971
 
+[![CLDF validation](https://github.com/pano-takanan-history/girardprotopanotakanan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-takanan-history/girardprotopanotakanan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -12,19 +14,17 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-
-Conceptlists in Concepticon:
-- [Girard-1971-559](https://concepticon.clld.org/contributions/Girard-1971-559)
 ## Statistics
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+[![CLDF validation](https://github.com/pano-takanan-history/girardprotopanotakanan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-takanan-history/girardprotopanotakanan/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 66%](https://img.shields.io/badge/Glottolog-66%25-orange.svg "Glottolog: 66%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 3 (linked to 3 different Glottocodes)
+- **Varieties:** 3 (linked to 2 different Glottocodes)
 - **Concepts:** 113 (linked to 96 different Concepticon concept sets)
 - **Lexemes:** 427
 - **Sources:** 0
